@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BPMN-Anomaly-Inspector/BPMN-Anomaly-Inspector/bin/Debug/net8.0
+/BPMN-Anomaly-Inspector/.vs/BPMN-Anomaly-Inspector
+/.vs
+/BPMN-Anomaly-Inspector/BPMN-Anomaly-Inspector/obj/Debug/net8.0
+/BPMN-Anomaly-Inspector/BPMN-Anomaly-Inspector/obj
+/BPMN-Anomaly-Inspector/AnomalyDection.Core/obj
+/BPMN-Anomaly-Inspector/AnomalyDection.Core/bin/Debug/net8.0
+/BPMN-Anomaly-Inspector/AnomalyDection.Core/bin/Release/net8.0
+/BPMN-Anomaly-Inspector/BPMN-Anomaly-Inspector/bin/Release/net8.0
