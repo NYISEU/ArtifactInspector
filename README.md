@@ -51,4 +51,4 @@ This .NET 8 web service detects concurrent artifact anomalies in microservice wo
 
 ## Advantages
 
-This method streamlines the workflow validation process, offering immediate feedback and ensuring workflow reliability by leveraging SP-tree based anomaly detection, directly integrated into the design tool for microservice architectures.
+This method streamlines the workflow validation process, offering immediate feedback and ensuring BPMN workflow reliability by leveraging SP-tree based anomaly detection, directly integrated into the design tool for microservice architectures.
